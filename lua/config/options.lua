@@ -5,4 +5,4 @@
 vim.g.lazyvim_prettier_needs_config = true
 vim.opt.tabstop = 4
 vim.opt.shiftwidth = 4
-vim.opt.cursorline = false
+-- vim.opt.cursorline = false
